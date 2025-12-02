@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lügi - Tarih Baykuşu",
+  "description": "An interactive history dictionary chat application featuring Lügi, a wise and friendly owl. Ask about historical concepts, events, and figures, and get clear, concise answers based on the Turkish curriculum. Features voice input and text-to-speech output.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
